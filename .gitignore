@@ -1,0 +1,6 @@
+# Ignore build artifacts
+*.out
+*.o
+*.obj
+*.exe
+tmp_test*.cpp
